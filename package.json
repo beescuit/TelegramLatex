@@ -1,0 +1,17 @@
+{
+  "name": "telegram-latex-render",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "mathjax-node": "^0.5.1",
+    "node-telegram-bot-api": "^0.23.3",
+    "randomstring": "^1.1.5",
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BeeCoding",
+  "license": "MIT"
+}
